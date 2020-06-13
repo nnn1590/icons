@@ -203,8 +203,8 @@ Android holo bee is from: `aosp/platform_frameworks_base.git/core/res/res/drawab
 </details>
 
 System bar(Back, home, recent and menu) icons are from: `aosp/platform_frameworks_base.git/packages/SystemUI/res/drawable-hdpi/ic_sysbar_{back,home,recent,menu}_default.png@6301e12415c8f9a2baa33b55dd2d40471cdbfe3c`:
-* https://github.com/aosp-mirror/platform_frameworks_base/blob/6301e12415c8f9a2baa33b55dd2d40471cdbfe3c/packages/SystemUI/res/drawable-hdpi
 * https://android.googlesource.com/platform/frameworks/base.git/+/6301e12415c8f9a2baa33b55dd2d40471cdbfe3c/packages/SystemUI/res/drawable-hdpi
+* https://github.com/aosp-mirror/platform_frameworks_base/blob/6301e12415c8f9a2baa33b55dd2d40471cdbfe3c/packages/SystemUI/res/drawable-hdpi
 
 <details>
 <summary>NOTICE From: https://raw.githubusercontent.com/aosp-mirror/platform_frameworks_base/6301e12415c8f9a2baa33b55dd2d40471cdbfe3c/packages/SystemUI/NOTICE</summary>
