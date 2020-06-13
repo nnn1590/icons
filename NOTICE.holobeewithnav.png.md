@@ -5,7 +5,7 @@ Android holo bee is from: `aosp/platform_frameworks_base.git/core/res/res/drawab
 * https://github.com/aosp-mirror/platform_frameworks_base/blob/3023afefd4cedcd7a8994b059c7d4d04a45edd44/core/res/res/drawable-nodpi/platlogo.png
 
 <details>
-<summary>`NOTICE` From: https://raw.githubusercontent.com/aosp-mirror/platform_frameworks_base/3023afefd4cedcd7a8994b059c7d4d04a45edd44/core/res/NOTICE</summary>
+<summary>NOTICE From: https://raw.githubusercontent.com/aosp-mirror/platform_frameworks_base/3023afefd4cedcd7a8994b059c7d4d04a45edd44/core/res/NOTICE</summary>
 
 ```
 
@@ -207,7 +207,8 @@ System bar(Back, home, recent and menu) icons are from: `aosp/platform_framework
 * https://android.googlesource.com/platform/frameworks/base.git/+/6301e12415c8f9a2baa33b55dd2d40471cdbfe3c/packages/SystemUI/res/drawable-hdpi
 
 <details>
-<summary>`NOTICE` From: https://raw.githubusercontent.com/aosp-mirror/platform_frameworks_base/6301e12415c8f9a2baa33b55dd2d40471cdbfe3c/packages/SystemUI/NOTICE</summary>
+<summary>NOTICE From: https://raw.githubusercontent.com/aosp-mirror/platform_frameworks_base/6301e12415c8f9a2baa33b55dd2d40471cdbfe3c/packages/SystemUI/NOTICE</summary>
+
 ```
 
    Copyright (c) 2005-2008, The Android Open Source Project
