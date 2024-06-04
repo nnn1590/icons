@@ -1,4 +1,5 @@
-Pixel art is based on U+1F603 emoji from noto-emoji@v2015-09-29-license-apache.
+These modifications are by NNN1590:
+* Created a pixel art that based on U+1F603 emoji from noto-emoji@v2015-09-29-license-apache.
 
 Original: https://github.com/googlefonts/noto-emoji/blob/v2015-09-29-license-apache/svg/emoji_u1f603.svg
 

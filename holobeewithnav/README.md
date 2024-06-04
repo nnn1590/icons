@@ -1,4 +1,5 @@
-Just merge of 5 resources(see below) with a little color change and `#000000` background.
+These modifications are by NNN1590:
+* Mixed 5 resources(see below) with a little color change and `#000000` background.
 
 Android holo bee is from `aosp/platform_frameworks_base.git/core/res/res/drawable-nodpi/platlogo.png@3023afefd4cedcd7a8994b059c7d4d04a45edd44`:
 * https://android.googlesource.com/platform/frameworks/base.git/+/3023afefd4cedcd7a8994b059c7d4d04a45edd44/core/res/res/drawable-nodpi/platlogo.png

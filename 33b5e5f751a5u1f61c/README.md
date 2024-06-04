@@ -1,6 +1,7 @@
 U+1F61C emoji is from noto-emoji@v2015-09-29-license-apache
 
-Changed to white-outlined with grow
+These modifications are by NNN1590:
+* Changed to white-outlined with grow
 
 Original: https://raw.githubusercontent.com/googlefonts/noto-emoji/v2015-09-29-license-apache/svg/emoji_u1f61c.svg
 
